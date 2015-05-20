@@ -3,6 +3,11 @@ body{
     padding: 0;
     margin: 0;
 }
+.lista{
+    display: inline;
+    list-style: none;
+    padding: 0px 4px 0px 4px;
+}
 .list{
     display: list-item;
     list-style: disc;

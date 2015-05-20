@@ -4,7 +4,7 @@ body{
     margin: 0;
 }
 li{
-    display: inline;
+    display: list-item;
     list-style: disc;
     padding: 0px 4px 0px 4px;
 }
